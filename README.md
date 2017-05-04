@@ -10,4 +10,4 @@ and use as is simple.
 ## Deployement
 
 Adding some deployment files into the server
-As we discussed we have several files to deploy
+As we discussed we have several files to deploy.
